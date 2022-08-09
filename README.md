@@ -1,2 +1,2 @@
 # MyProject1CrudApiAzureDevOps
-My first repository to Learning Azure DevOps
+My first repository for Learning Azure DevOps
